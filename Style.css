@@ -58,7 +58,7 @@ nav ul li a:hover {
 
 /* Style for the home section */
 .homeclass {
-   background: url('bgimage2.jpg') no-repeat center center/cover;
+   background: url('Media/bgimage2.jpg') no-repeat center center/cover;
    height: 100vh;
    display: flex;
    flex-direction: column;
